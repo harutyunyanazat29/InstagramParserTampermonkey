@@ -80,4 +80,4 @@ This script is provided as-is and may not work correctly if Instagram's website 
 
 ---
 
-Thank you for using the Instagram Parser Tampermonkey script! If you have any questions, issues, or improvements, feel free to open an issue or contribute to the project. Happy parsing!
+Thank you for using the Instagram Parser Tampermonkey script! If you have any questions, issues, or improvements, feel free to open an issue or contribute to the project. Happy parsing! 
